@@ -1,8 +1,6 @@
 # Hyperspectral Image Reconstruction using PCA & Residual U-Net
 
-**Author:** Kazi Hafiz Md Asad    
-**Dataset:** CZ_hsdb (31 spectral channels, 420–720 nm)  
-**Citation:** Chakrabarti & Zickler, CVPR 2011
+**Author:** Kazi Hafiz Md Asad     
 
 ---
 
@@ -16,6 +14,13 @@ This repository demonstrates a complete pipeline for reconstructing hyperspectra
 5. **Evaluation & Metrics:** Inverting PCA to measure reconstruction quality on PSNR, SSIM, and SAM.  
 6. **Visualization:** Generating figures for spatial bands, spectral profiles, error maps, training curves, and aggregate spectra.
 
+## Datasets
+
+- **CZ_hsdb (Hyperspectral Dataset)**
+  - [Download from Google Drive](https://drive.google.com/drive/folders/1PcqItQVhwx13EnMR7ts3SS_EQytmprME?usp=drive_link)
+
+- **Indian Pines (Hyperspectral Dataset)**
+  - [Download from Kaggle](https://www.kaggle.com/datasets/emannasserabdelhafez/indian-pines)
 
 
 ## 🔧 Configuration
